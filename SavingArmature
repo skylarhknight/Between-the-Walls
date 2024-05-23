@@ -1,0 +1,6 @@
+ HOW TO SAVE A POSE AND THE ARMATURE IN BLENDER
+(a hard learned lesson)
+
+1. apply the armature modifier to the mesh
+2. pose mode > pose > save pose as rest position
+3. make sure armature and mesh are stilll attatched
